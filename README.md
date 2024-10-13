@@ -2,8 +2,8 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning DSA
 - 📫 Reach me - vinayakagrawal003@gmail.com
-- ⚡ Fun fact:  Hello World! is the first phrase written by a beginner
-- ⚡ Fun fact:  An average video game programmer can spend 80% of his time Debugging  
+- ⚡ Fun fact:  The phrase " Hello World! " is often the first program written by a beginner learning to code.
+- ⚡ Fun fact:  An average video game programmer can spend 80% of his time Debugging.
 
 <!---
 VinayakAgrawal003/VinayakAgrawal003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
