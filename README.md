@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @VinayakAgrawal003
+- 👋 Hi, I’m @VinayakAgrawal
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me vinayakagrawal003@gmail.com
-- 😄 Pronouns: ...
+- 📫 Reach me - vinayakagrawal003@gmail.com
 - ⚡ Fun fact: Hello World! is the first phrase written by a beginner
 - ⚡ Fun fact: An average video game programmer can spend 80% of his time Debugging  
 
